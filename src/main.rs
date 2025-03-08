@@ -54,5 +54,5 @@ fn main() {
     }
     
     // Verificando se a fila está vazia após as remoções
-    println!("Fila está vazia? {}", fila.esta_vazia()); // true
+    println!("Fila Vazia {}", fila.esta_vazia()); // true
 }
