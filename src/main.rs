@@ -42,7 +42,6 @@ fn main() {
     let mut fila = Fila::nova();
     
     fila.esperar("Renan");
-    fila.esperar("Sabrina");
     fila.esperar("Roberto");
     fila.esperar("Raphael");
     fila.esperar("Yago");
