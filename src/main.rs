@@ -43,7 +43,6 @@ fn main() {
     
     fila.esperar("Renan");
     fila.esperar("Sabrina");
-    fila.esperar("Sarah");
     fila.esperar("Roberto");
     fila.esperar("Raphael");
     fila.esperar("Yago");
