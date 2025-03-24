@@ -2,7 +2,7 @@
 
 pub unsafe fn multiply_array(ptr: *const i32, len: usize) -> i32 {
     let mut product = 1;
-    for i in 1..len {
+    for i in 0..len {
         product *= *ptr.offset(i as isize);
     }
     product
